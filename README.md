@@ -4,7 +4,7 @@ This is a repo for the project/task list for the GIS Dept at the City of Zanesvi
 
 ----
 
-[New Issue](https://github.com/zanesville/gis-projects/issues/new)
+[New Issue](https://github.com/zanesville/gis-projects/issues/new?labels=ideas&projects=zanesville/gis-projects/2)
 
 ---
 
