@@ -8,7 +8,7 @@ This is a repo for the project/task list for the GIS Division at the City of Zan
 
 ---
 
-[File New Bug](https://github.com/zanesville/gis-projects/issues/new?labels=ibug&projects=zanesville/gis-projects/2)
+[File New Bug](https://github.com/zanesville/gis-projects/issues/new?labels=bug&projects=zanesville/gis-projects/2)
 
 ---
 
